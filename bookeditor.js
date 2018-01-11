@@ -311,7 +311,7 @@ Catalog.prototype = {
                 content = modal_sel.find(".modal-content");
             var html = [
                 '<div class="book-dialog new-dialog">',
-                    '<h3>新建张杰</h3>',
+                    '<h3>新建章节</h3>',
                     '<form>',
                         '<input type="checkbox" name="is_dir" class="hidden">',
                         '<div class="form-group">',
