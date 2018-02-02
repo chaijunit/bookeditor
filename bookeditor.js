@@ -141,7 +141,7 @@ function Catalog(bookeditor, editor, options){
         return true;
     });
 
-    new_sel.on("click", function(){
+    new_sel.on("click", function(event){
         var settings = _this.settings,
             handlers = _this.handlers,
             customHandlers = settings.menuHandlers;
