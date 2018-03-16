@@ -1,6 +1,11 @@
 # Bookeditor
 一个开源的Markdown在线写书编辑器
 
+码云地址：https://gitee.com/beibq/bookeditor
+
+
+github地址：https://github.com/chaijunit/bookeditor
+
 # Bookeditor依赖的开源项目
 
 - [jQuery](http://jquery.com/)
